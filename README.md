@@ -1,5 +1,5 @@
 # Google-Search
-A front-end for design of Google Search, Google Image Search, and Google Advanced Search. <br/>
+A front-end design of Google Search, Google Image Search, and Google Advanced Search. <br/>
 
 This was Project 0 of HarvardX's CS50w web programming course, and served as a quick refresher on working with HTML forms and styling using CSS.
 
